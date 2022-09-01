@@ -1,0 +1,44 @@
+.card-title {
+  font-size: 20px;
+}
+.row {
+  margin-right: 15px;
+}
+.card {
+  margin: auto;
+  width: 50%;
+}
+
+#current-temp {
+  margin-top: 30px;
+  font-size: 40px;
+}
+#city-info {
+  margin-top: 20px;
+}
+#city {
+  font-size: 50px;
+}
+#time {
+  font-size: 12px;
+}
+#weather-info {
+  margin-top: 80px;
+  font-size: 12px;
+}
+.date {
+  font-size: 12px;
+}
+.day {
+  font-size: 20px;
+  font-weight: 500;
+}
+.weather-emoji {
+  font-size: 30px;
+}
+.superscript {
+  font-size: 20px;
+}
+#city {
+  text-transform: capitalize;
+}
