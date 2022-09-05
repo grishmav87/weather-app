@@ -42,3 +42,6 @@
 #city {
   text-transform: capitalize;
 }
+.footer {
+  margin: auto;
+}
